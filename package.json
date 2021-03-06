@@ -1,0 +1,14 @@
+{
+  "name": "weatherproject",
+  "version": "1.0.0",
+  "description": "Putting weather details such as temp and icon from open weather website on a live server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Clinto Abraham",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
